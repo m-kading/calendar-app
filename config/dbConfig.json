@@ -1,0 +1,8 @@
+{
+  "dbHost": "localhost",
+  "dbName": "calender",
+  "mongooseConfig": {
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true
+  }
+}
